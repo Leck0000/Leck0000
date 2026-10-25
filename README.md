@@ -71,7 +71,7 @@ I design and build software end to end. My internship adds hands-on **infrastruc
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <picture>
   <img src="/github-metrics.svg" alt="Aleck's GitHub metrics: profile summary, most used languages, and commit calendar" width="50%" />
