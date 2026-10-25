@@ -24,6 +24,7 @@ jobs:
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_sections: most-used
+          plugin_isocalendar: no
       # Second image: the contribution calendar only (shown in the right column)
       - uses: lowlighter/metrics@latest
         with:
