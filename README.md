@@ -31,7 +31,7 @@ I design and build software end to end. My internship adds hands-on **infrastruc
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 **Frontend & Design**<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -60,10 +60,10 @@ I design and build software end to end. My internship adds hands-on **infrastruc
 
 <br>
 
-**Tools & OS**<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+**Tools**<br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Kiro-9046FF?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro" />
 
 </div>
 
