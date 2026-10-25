@@ -21,7 +21,7 @@ BSIT student at Quezon City University · Network Support Intern at ITECH-RAR So
 | | |
 |---|---|
 | 🎓 **Studying** | BS Information Technology, Quezon City University |
-| 💼 **Internship** | IT Technical Support, ITECH-RAR Solutions Inc. |
+| 💼 **Internship** | Network Support, ITECH-RAR Solutions Inc. |
 | 🛠️ **I build** | Complete applications, from interface to database, on web, mobile, and desktop |
 | 📫 **Reach me** | [aleck.biong22@gmail.com](mailto:aleck.biong22@gmail.com) |
 
@@ -31,7 +31,7 @@ I design and build software end to end. My internship adds hands-on **infrastruc
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Frontend & Design**<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
