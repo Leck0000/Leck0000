@@ -74,7 +74,7 @@ I design and build software end to end. My internship adds hands-on **infrastruc
 <div align="center">
 
 <picture>
-  <img src="/github-metrics.svg" alt="Aleck's GitHub metrics: profile summary, most used languages, and commit calendar" width="100%" />
+  <img src="/github-metrics.svg" alt="Aleck's GitHub metrics: profile summary, most used languages, and commit calendar" width="50%" />
 </picture>
 
 </div>
