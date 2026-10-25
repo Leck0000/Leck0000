@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi I'm Aleck Christian Biong
+# Hi I am Aleck Christian Biong!
 
-**Software developer building practical, end-to-end apps across web, mobile, and desktop.**
+**Software developer · I build complete apps for web, mobile, and desktop**
 
-BS Information Technology @ Quezon City University · IT Technical Support Intern @ ITECH-RAR Solutions Inc.
+BSIT student at Quezon City University · Network Support Intern at ITECH-RAR Solutions Inc.
 
 <br>
 
-<a href="https://linkedin.com/in/aleck-christian-biong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:aleck.biong22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-<a href="https://github.com/Leck0000"><img src="https://img.shields.io/badge/GitHub-Leck0000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://linkedin.com/in/aleck-christian-biong"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:aleck.biong22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://github.com/Leck0000"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
@@ -18,61 +18,54 @@ BS Information Technology @ Quezon City University · IT Technical Support Inter
 
 ## 👨‍💻 About
 
-I'm a student developer who likes shipping things that actually get used: apps with real users, real data, and real constraints. Right now I'm adding hands-on **infrastructure and hardware** experience through my IT support internship, alongside my software projects.
+| | |
+|---|---|
+| 🎓 **Studying** | BS Information Technology, Quezon City University |
+| 💼 **Internship** | IT Technical Support, ITECH-RAR Solutions Inc. |
+| 🛠️ **I build** | Complete applications, from interface to database, on web, mobile, and desktop |
+| 📫 **Reach me** | [aleck.biong22@gmail.com](mailto:aleck.biong22@gmail.com) |
 
-<br>
-
-## 🚀 What I'm Working On
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🦷 Dentra</h3>
-      <sub><b>Clinic Finder · Mobile + Web</b></sub>
-      <p>Cross-platform app that helps users find dental clinics, with geolocation and AI-assisted features.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Google Places API</code> <code>Gemini</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>👜 Bayong Maker System</h3>
-      <sub><b>Management · Desktop</b></sub>
-      <p>Custom desktop system for inventory, production tracking, and sales.</p>
-      <p><code>Python</code> <code>SQLite</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Automation Tools</h3>
-      <sub><b>Screen monitoring · Math solver</b></sub>
-      <p>Tools that watch the screen, read it with OCR, and act on what they see.</p>
-      <p><code>Python</code> <code>PyAutoGUI</code> <code>EasyOCR</code></p>
-    </td>
-  </tr>
-</table>
+I design and build software end to end. My internship adds hands-on **infrastructure and hardware** experience, so I understand the systems my software runs on as well as the code itself.
 
 <br>
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="React, Next.js, Tailwind CSS, Figma" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; Desktop</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cs,dotnet" alt="Python, C#, .NET" /></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL, SQLite" /></td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; OS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio" alt="Linux, VS Code, Visual Studio" /></td>
-  </tr>
-</table>
+<div align="center">
+
+**Frontend & Design**<br>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+<br>
+
+**Mobile**<br>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+
+<br>
+
+**Backend & Desktop**<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+
+<br>
+
+**Databases**<br>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+
+<br>
+
+**Tools & OS**<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+
+</div>
 
 <br>
 
@@ -81,14 +74,7 @@ I'm a student developer who likes shipping things that actually get used: apps w
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Leck0000&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Leck0000&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=0A66C2&text_color=24292f" />
-  <img alt="Aleck's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Leck0000&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=0A66C2&text_color=24292f" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leck0000&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Leck0000&layout=compact&hide_border=true&bg_color=00000000&title_color=0A66C2&text_color=24292f" />
-  <img alt="Aleck's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leck0000&layout=compact&hide_border=true&bg_color=00000000&title_color=0A66C2&text_color=24292f" width="48%" />
+  <img src="/github-metrics.svg" alt="Aleck's GitHub metrics: profile summary, most used languages, and commit calendar" width="100%" />
 </picture>
 
 </div>
@@ -97,4 +83,4 @@ I'm a student developer who likes shipping things that actually get used: apps w
 
 ## 📬 Let's Connect
 
-Open to internships, collaborations, and interesting projects. The fastest way to reach me is by [email](mailto:aleck.biong22@gmail.com) or on [LinkedIn](https://linkedin.com/in/aleck-christian-biong).
+Have a project, question, or opportunity? Email me at [aleck.biong22@gmail.com](mailto:aleck.biong22@gmail.com) or send a message on [LinkedIn](https://linkedin.com/in/aleck-christian-biong).
