@@ -10,7 +10,6 @@ BSIT student at Quezon City University · Network Support Intern at ITECH-RAR So
 
 <a href="https://linkedin.com/in/aleck-christian-biong"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:aleck.biong22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Send an email" /></a>
-<a href="https://github.com/Leck0000"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
