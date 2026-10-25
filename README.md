@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I am Aleck Christian Biong!
+# Aleck Christian Biong
 
 **Software developer · I build complete apps for web, mobile, and desktop**
 
@@ -71,13 +71,16 @@ I design and build software end to end. My internship adds hands-on **infrastruc
 
 ## 📊 GitHub Stats
 
-<div align="left">
-
-<picture>
-  <img src="/github-metrics.svg" alt="Aleck's GitHub metrics: profile summary, most used languages, and commit calendar" width="50%" />
-</picture>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="/github-metrics.svg" alt="Aleck's GitHub stats: activity, community, repositories, and most used languages" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="/github-metrics-calendar.svg" alt="Aleck's contribution calendar and commit streaks" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
