@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aleck Christian Biong
+# Hi I'm Aleck Christian Biong
 
 **Software developer building practical, end-to-end apps across web, mobile, and desktop.**
 
