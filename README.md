@@ -33,7 +33,7 @@ Lately I've been going down the **AI agents and automation** rabbit hole.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Frontend & Design**<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
