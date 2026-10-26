@@ -10,6 +10,7 @@ BSIT student at Quezon City University · Network Support Intern at ITECH-RAR So
 
 <a href="https://linkedin.com/in/aleck-christian-biong"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:aleck.biong22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://github.com/Leck0000"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
@@ -22,15 +23,17 @@ BSIT student at Quezon City University · Network Support Intern at ITECH-RAR So
 | 🎓 **Studying** | BS Information Technology, Quezon City University |
 | 💼 **Internship** | Network Support, ITECH-RAR Solutions Inc. |
 | 🛠️ **I build** | Complete applications, from interface to database, on web, mobile, and desktop |
+| 🔭 **Exploring** | Cybersecurity, game development, networking, AI agents & automation |
 | 📫 **Reach me** | [aleck.biong22@gmail.com](mailto:aleck.biong22@gmail.com) |
 
-I design and build software end to end. My internship adds hands-on **infrastructure and hardware** experience, so I understand the systems my software runs on as well as the code itself.
+I started out with **SQL and databases**, then grew into **full-stack development** (React, Next.js, Flutter), and I still enjoy building complete products from the interface down to the database. These days my curiosity goes wherever it wants: **cybersecurity, game development, networking**, or honestly anything under the sun. I'm a jack of all trades, master of none (yet). My network support internship at ITECH-RAR Solutions gives me a hands-on look at the real infrastructure software runs on.
 
+Lately I've been going down the **AI agents and automation** rabbit hole.
 <br>
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 **Frontend & Design**<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
