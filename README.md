@@ -2,7 +2,7 @@
 
 # Aleck Christian Biong
 
-**Software developer · I build complete apps for web, mobile, and desktop**
+**Software developer · currently into vibe-coding**
 
 BSIT student at Quezon City University · Network Support Intern at ITECH-RAR Solutions Inc.
 
