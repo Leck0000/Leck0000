@@ -2,7 +2,7 @@
 
 # Aleck Christian Biong
 
-**Software developer · currently into vibe-coding**
+**Software developer · AI Engineer**
 
 BSIT student at Quezon City University · Network Support Intern at ITECH-RAR Solutions Inc.
 
